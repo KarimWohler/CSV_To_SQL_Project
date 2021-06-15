@@ -5,5 +5,5 @@
 
 - results outputed: 
 	- Time taken to complete the read and writing of the data in the csv
-	- The number of employee values entered into the table
-	- The number of duplicates in the table.
+	- The number of employees entered into the SQL table
+	- The number of duplicates not entered.
